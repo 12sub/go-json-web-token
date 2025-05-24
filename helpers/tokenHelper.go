@@ -9,7 +9,7 @@ import (
 
 	"github.com/12sub/go-jwt/database"
 	jwt "github.com/dgrijalva/jwt-go"
-	"github.com/gin-gonic/gin"
+	// "github.com/gin-gonic/gin"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 	"go.mongodb.org/mongo-driver/mongo"
